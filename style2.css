@@ -1,0 +1,24 @@
+body{
+	background-color:#1ffc4e;
+}
+video{
+	background-color:orange;
+	width:600px;
+	height:300px;
+	border-radius:5px;
+	margin-bottom:2px;
+}
+#header{
+	background-color:#ff8f17;
+	color:black;
+	padding:15px;
+	border-bottom:4px solid black;
+	height:60px;
+}
+footer{
+	background-color:#ff8f17;
+	height:46px;
+}
+footer h2{
+	color:#040404;
+}
